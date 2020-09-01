@@ -1,14 +1,14 @@
 ---
 templateKey: blog-archive
-published: true
-schemaType: WebPage
 pageSlug: /blog
 pageTitle: Blog
-metaDescription: '{{client_name}}’s blog'
-header: '{{client_name}}’s Blog'
-subheader: ~
+metaDescription: Monique Rogers, Organizational Psychologist -  blog
+published: true
+schemaType: WebPage
+header: Monique Rogers’s Blog
+subheader: null
 featuredImage:
-  src: ~
-  alt: ~
-  caption: ~
+  ? src
+  ? alt
+  ? caption
 ---
