@@ -1,31 +1,31 @@
 ---
-templateKey: 'site-data'
+templateKey: site-data
 published: false
-name: '{{client_name}}'
-jobTitle: '{{job_title}}'
-siteName: '{{site_name}}'
-siteUrl: 'https://{{site_url}}'
-siteAnalytics: ~
+name: Monique Rogers
+jobTitle: Organizational Psychologist
+siteName: Monique Rogers
+siteUrl: https://www.moniquerogers.me
+siteAnalytics: null
+favicon: /img/favicon.png
+fallbackImage: /img/bio-headshot.jpg
 socialLinks:
   twitter:
-    url: ''
-    show: false
+    url: https://twitter.com/moniquerogers
+    show: true
   facebook:
-    url: ''
+    url: ""
     show: false
   linkedin:
-    url: ''
-    show: false
+    url: https://www.linkedin.com/in/monique-rogers/
+    show: true
   pinterest:
-    url: ''
-    show: false
+    url: https://www.pinterest.com/moniquerogers_
+    show: true
   instagram:
-    url: ''
+    url: ""
     show: false
-favicon: '/img/favicon.png'
-fallbackImage: '/img/headshot.jpg'
 themeOptions:
-  colorScheme: 'londn'
-  fontScheme: 'muli'
+  colorScheme: londn
+  fontScheme: proza
   showThemeSwitcher: false
 ---
