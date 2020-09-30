@@ -8,7 +8,7 @@ schemaType: AboutPage
 header: About Monique Rogers
 subheader: Career highlights past and present
 featuredImage:
-  src: /img/rogers_monique-headshot.jpg
+  src: /img/rogers_monique-about.jpg
   alt: Headshot of Monique Rogers
   caption: null
 longBiography_MD: >-
